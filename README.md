@@ -3,7 +3,7 @@ Instagram bot. It works without instagram api, need only login and password. Wri
 
 After Instagram [close api][1] (new review process), there were some problem, to make auto - like, comment and follow.
 
-If your app can't pass new review process, this is solution!
+If your app can'tbrj pass new review process, this is solution!
 
 This InstaBot work by [https://www.instagram.com][2] and need only your login and password.
 ## Usage
